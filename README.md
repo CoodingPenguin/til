@@ -10,9 +10,15 @@
 
 ## Linear Algebra
 
-- [행렬 90도 시계방향 회전](./linear-algebra/rotate-matrix-by-90.py)
+- [행렬 90도 시계방향 회전](./linear-algebra/rotate_matrix_by_90.py)
 
 ## Graph
 
 - [깊이 우선 탐색 DFS](./graph/dfs.py)
 - [너비 우선 탐색 BFS](./graph.bfs.py)
+
+## Sort
+
+- [선택 정렬](./sort/selection_sort.py)
+- [삽입 정렬](./sort/insertion_sort.py)
+- [퀵 정렬](./sort/quick_sort.py)

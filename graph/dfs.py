@@ -1,10 +1,13 @@
 # title: 깊이 우선 탐색(DFS, Depth First Search)
 # src: 이것이 취업을 위한 코딩테스트다 p.142
 
-# graph: 노드 연결 정보 (2차원 리스트)
-# v: 시작 노드
-# visited: 노드 방문 정보 (1차원 리스트)
 def dfs(graph, v, visited):
+    '''
+    깊이를 우선으로 하여 전 노드를 탐색
+    - graph: 노드 연결 정보 (2차원 리스트)
+    - v: 시작 노드
+    - visited: 노드 방문 정보 (1차원 리스트)
+    '''
     # 현재 노드를 방문 처리
     visited[v] = True
     print(v, end=" ")
