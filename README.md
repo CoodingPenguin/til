@@ -24,6 +24,6 @@
 - [퀵 정렬](./sort/quick_sort.py)
 - [계수 정렬](.sort/count_sort.py)
 
-# Tree
+# Search
 
-- [이진 탐색](./tree/binary_tree.py)
+- [이진 탐색](./search/binary_search.py)
