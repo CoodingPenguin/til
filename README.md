@@ -42,7 +42,8 @@
 
 #### [수학]
 
-- [행렬 90도 시계방향 회전](./algorithms/linear-algebra/rotate_matrix_by_90.py)
+- [행렬 90도 시계방향 회전](./algorithms/math/rotate_matrix_by_90.py)
+- [에라토스테네스의 체](./algorithms/math/prime_number.py)
 
 #### [정렬]
 
