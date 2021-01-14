@@ -48,6 +48,8 @@
 - [에라토스테네스의 체](./algorithms/math/prime_number.py)
 - [최대공약수](./algorithms/math/gcd.py)
 - [최소공배수](./algorithms/math/lcm.py)
+- [2차원 리스트 슬라이싱](./algorithms/math/slice_2d_list.py)
+- [행렬 전치](./algorithms/math/transpose_matrix.py)
 
 #### [정렬]
 
